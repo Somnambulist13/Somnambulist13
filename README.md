@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Somnambulist13 I am a Game Developer and a 2D Game Artist.
 - 👀 I’m interested in art, video games and everything horror.
-- 🌱 I’m currently learning Unreal, Godot, CSS, React.
+- 🌱 I’m currently learning Unreal, Godot, CSS, React, HTML.
 - 📫 How to reach me @ Sumnambulist13@gmail.com
 - 😄 Pronouns: She/Her
 
